@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm LIU Minghao (刘明昊), David 👋
 
 <!--
 **David-Lmh/David-Lmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
