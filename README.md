@@ -10,6 +10,7 @@
   - Fashion Image Generation Using GAN Model (https://github.com/Anya-RB-Chen/GAN_Fashion);
   - Concert Ticket Selling System Project (https://github.com/zhangwengyu999/Concert_Ticket_Selling_System_Project);
   - Personal Information Manager (https://github.com/tyAlexios/PIM-MVC);
+  - A Million News Headlines (https://github.com/David-Lmh/A-Million-News-Headlines)
   - Other project can be found in my repositories
 
 
