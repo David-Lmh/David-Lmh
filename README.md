@@ -1,10 +1,9 @@
 ### Hi, I'm LIU Minghao (刘明昊), David 👋
 
-- MSc Student in Big Data Technology at The Hong Kong University of Science and Technology (HKUST)
-- BSc in Computing, The Hong Kong Polytechnic University
-- Interested in Backend Engineering, Distributed Systems, and Security
-- Co-founder of CV Chain (https://github.com/Team-Unhackable/CV-Chain)
-
+- MSc in Big Data Technology @ HKUST
+- BSc in Computing @ PolyU
+- Interested in Big Data Systems, AI Applications, and Digital Infrastructure
+- Co-founder of CV Chain
 
 
 <!--
