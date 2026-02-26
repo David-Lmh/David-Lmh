@@ -3,7 +3,7 @@
 - MSc in Big Data Technology @ HKUST
 - BSc in Computing @ PolyU
 - Interested in Big Data Systems, AI Applications, and Digital Infrastructure
-- Co-founder of CV Chain
+- Co-founder of CV Chain (https://github.com/Team-Unhackable/CV-Chain)
 
 
 <!--
